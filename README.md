@@ -2233,6 +2233,11 @@
 <td class="confluenceTd" colspan="1">213</td>
 <td class="confluenceTd" colspan="1">JS in Vietnamese</td>
 </tr>
+<tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="https://coders.tokyo" rel="nofollow">Vietnam JS</a></td>
+<td class="confluenceTd" colspan="1">1755</td>
+<td class="confluenceTd" colspan="1">Coders.Tokyo community - Learn programming for free</td>
+</tr>
 </tbody>
 </table>
 <h1 id="id-300+100каналоввSlack-VII.Miscellaneous">VII. Miscellaneous</h1>
